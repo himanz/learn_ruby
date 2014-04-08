@@ -130,6 +130,13 @@ describe Temperature do
   # 2. Refactor the rest of your code so it calls these two methods when appropriate
 
   describe "utility class methods" do
+    # describe "ftoc class" do
+    #   describe "convert fahrenheit to celcius" do
+    #     it "at freezing" do
+    #       ftoc.new(32).should == 0
+    #     end
+    #   end
+    # end
 
   end
 
